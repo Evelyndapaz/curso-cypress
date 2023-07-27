@@ -1,7 +1,7 @@
 # Curso Cypress
 API Alurapic desenvolvida pela Alura para realização de práticas sobre testes funcionais automatizados utilizando a ferramenta de testes Cypress.
 
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 Node.js v16.13.1
 Visual Studio Code (VSC)
 Cypress v12.10.0
