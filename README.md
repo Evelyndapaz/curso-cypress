@@ -1,5 +1,6 @@
 # Curso Cypress
-API Alurapic desenvolvida pela Alura para realização de práticas sobre testes funcionais automatizados utilizando a ferramenta de testes Cypress.
+API Alurapic desenvolvida pela Alura para os alunos do curso Cypress: automação de testes E2E.
+Foram realizados testes funcionais automatizados na API com a finalidade de obter conhecimento técnico através da prática.
 
 ## 📋 Pré-requisitos
 Node.js v16.13.1
